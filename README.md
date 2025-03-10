@@ -1,4 +1,4 @@
-# **Solution Path Pruning **
+# Solution Path Pruning
 
 Official implementation of **"Adaptive Pruning of Pretrained Transformer via Differential Inclusions"**, published at **ICLR 2025**.
 
