@@ -71,10 +71,10 @@ More results and comparisons can be found in our [paper](https://arxiv.org/pdf/2
 If you find our work useful, please cite:
 
 ```bibtex
-@inproceedings{ding2025spp,
+@article{ding2025adaptive,
   title={Adaptive Pruning of Pretrained Transformer via Differential Inclusions},
-  author={Yizhuo Ding, Ke Fan, Yikai Wang, Xinwei Sun, Yanwei Fu},
-  booktitle={International Conference on Learning Representations (ICLR)},
+  author={Ding, Yizhuo and Fan, Ke and Wang, Yikai and Sun, Xinwei and Fu, Yanwei},
+  journal={arXiv preprint arXiv:2501.03289},
   year={2025}
 }
 ```
